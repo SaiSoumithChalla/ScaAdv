@@ -7,6 +7,4 @@ object GetFunctions extends App {
 
    println(StringReverse(x))
 
-
-
 }

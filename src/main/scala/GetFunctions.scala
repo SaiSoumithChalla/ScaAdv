@@ -6,5 +6,5 @@ object GetFunctions extends App {
 }        // Getting FebSeries
 
    println(StringReverse(x))
-
+   println(SecondaryStringReverse("Thoshiba"))
 }

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="669779f3-d19b-4d83-8489-4254750384f6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Docker/Resoruces/docker-curriculum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -273,6 +273,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-66" width="1440" height="841" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />

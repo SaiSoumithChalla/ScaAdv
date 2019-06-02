@@ -7,4 +7,5 @@ object GetFunctions extends App {
 
    println(StringReverse(x))
    println(SecondaryStringReverse("Thoshiba"))
+   println(Mul1(12))
 }

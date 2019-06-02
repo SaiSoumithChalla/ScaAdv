@@ -1,0 +1,6 @@
+docker build -t InitDockeBuild .
+# Test Your Build
+docker images --filter reference=InitDockeBuild
+docker run -t -i -p 80:80 InitDockeBuild
+
+

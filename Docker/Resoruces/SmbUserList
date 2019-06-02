@@ -1,0 +1,23 @@
+# sudo smbpasswd -a ec2-user
+
+
+Volume Is mounted on Samba Server
+
+[global]
+ socket options = TCP_NODELAY IPTOS_LOWDELAY SO_RCVBUF=65536 SO_SNDBUF=65536
+
+[homes]
+        comment = Home Directories
+        valid users = %S, %D%w%S
+        browseable = Yes
+        read only = No
+        inherit acls = Yes
+        path = /home/ec2-user
+        writable = Yes
+        create mask = 0777
+
+
+passwd Default
+
+
+

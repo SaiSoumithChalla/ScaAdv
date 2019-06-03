@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="669779f3-d19b-4d83-8489-4254750384f6" name="Default" comment="" />
+    <list default="true" id="669779f3-d19b-4d83-8489-4254750384f6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Flask/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/templates/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -271,6 +274,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-66" width="1440" height="841" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
